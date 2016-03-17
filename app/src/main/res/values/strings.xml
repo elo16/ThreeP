@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ThreeP</string>
+    <string name ="question_text">
+        Press the buttons in the correct sequence
+    </string>
+
+    <string name = "seqButton">Generate Sequence</string>
+    <string name = "button1">RED</string>
+    <string name = "button2">BLUE</string>
+
+
+    <string name = "Button1_toast">Button1Pressed</string>
+    <string name = "Button2_toast">Weiller is a cunt</string>
+
+</resources>
